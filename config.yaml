@@ -1,0 +1,16 @@
+csel: true
+epochs: 200
+featuredim: 512
+findsubset: true
+num_datapoints: 2500
+num_freqbatch: 10
+num_freqcp: 50
+num_freqep: 10
+num_trajpoint: 10
+resume: false
+retain_scores: false
+root_dir: ./main/
+simsel: false
+subtrain: false
+testbatch: 100
+trainbatch: 128
